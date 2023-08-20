@@ -5,4 +5,5 @@ accelerate
 bitsandbytes
 einops
 scipy
+xformers
 git+https://github.com/huggingface/transformers.git
